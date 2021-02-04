@@ -6,7 +6,7 @@ html, body {
 }
 
 h1{
-    color: rgb(102, 111, 233);
+    color: rgb(225, 226, 243);
     text-align: center;
 }
 
@@ -35,11 +35,13 @@ h1{
 }
 
 .to-dos{
+    color: black;
     margin-top: 25px;
 }
 
 .paragraph-styling{
     margin: 0;
+    color: aliceblue;
     cursor: pointer;
     font-size: 20px;
 }
