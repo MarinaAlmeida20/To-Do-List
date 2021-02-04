@@ -2,6 +2,12 @@ html, body {
     width: 50%;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(10, 29, 56);
+}
+
+h1{
+    color: rgb(102, 111, 233);
+    text-align: center;
 }
 
 .container {
@@ -15,6 +21,7 @@ html, body {
     outline: none;
     font-size: 25px;
     vertical-align: middle;
+    background-color: rgb(180, 223, 243);
 }
 
 #addToDo {
@@ -23,6 +30,8 @@ html, body {
     border: 1px solid black;
     vertical-align: middle;
     font-size: 30px;
+    background-color: blue;
+    color: azure;
 }
 
 .to-dos{
